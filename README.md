@@ -20,6 +20,11 @@
   <li><strong>Frontend Development</strong>: (Specify frontend technologies used)</li>
 </ul>
 
+<h2>Example Screenshots</h2>
+
+![Screenshot 1](https://github.com/CH-RAFAY/Alexa-Emergency-System/blob/8722a42b6b158ca9d5188f9ec3ce3db2ef040429/Imgs/Menu.png)
+![Screenshot 2](https://github.com/CH-RAFAY/Alexa-Emergency-System/blob/8722a42b6b158ca9d5188f9ec3ce3db2ef040429/Imgs/02.png)
+
 <h2>Getting Started</h2>
 <p>To explore the Alexa-Emergency-System project:</p>
 <ol>
